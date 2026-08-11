@@ -1,0 +1,6 @@
+*.pem
+*.key
+*signing-private*
+release-*/
+__pycache__/
+*.pyc
