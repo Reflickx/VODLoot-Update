@@ -1,19 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.6.7.1",
+  "version": "0.6.7.2",
   "minimum_updater_version": "1.0.0",
-  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.1/VODLoot-update-0.6.7.1.zip",
-  "sha256": "98935e465d64c18942defbd7bfb0907e54d73e023081a947abb33d748d0e7ebd",
+  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.2/VODLoot-update-0.6.7.2.zip",
+  "sha256": "9e66077d13c73a31242663b1e970d9d012792a12b7dc1f6433643fa0a147b80f",
   "release_notes": [
-    "In-app clip player now displays video instead of freezing on Loading preview.",
-    "Dashboard shows a live count of clips moving through the pipeline.",
-    "Auto Watch stops faster, reports progress while finishing, and adds Finish Now.",
-    "Chunk boundaries no longer drop up to a second of footage.",
-    "Clipping no longer opens console windows over the game."
+    "Release pipeline moved into the private VODLoot repository; the public update repo is distribution-only. In-app clip player now displays video instead of freezing on Loading preview. Dashboard shows a live count of clips moving through the pipeline. Auto Watch stops faster, reports progress while finishing, and adds Finish Now. Chunk boundaries no longer drop up to a second of footage. Clipping no longer opens console windows over the game."
   ],
   "mandatory": false,
   "sync_environment": false,
-  "published_at": "2026-08-12T20:06:25.113755+00:00",
-  "signature": "JKl34SGXgacnfZTPenZelawndQoq1MRHKxdTnwZ4rWniEz6bWL4yUCTlTU3z/Wyy3gnjii129MDWApGNq6/IDg=="
+  "published_at": "2026-08-13T01:28:49.730693+00:00",
+  "signature": "JIu3qwgzTH+OytoF3P43edXOXk86pJ/ghVecWbNQPC8elZEMrYh0vSMXwZF4S4EqSUFjrEZvfLLjeXi29/uwAg=="
 }
