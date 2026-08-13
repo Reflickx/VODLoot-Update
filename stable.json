@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.6.7.2",
+  "version": "0.6.7.3",
   "minimum_updater_version": "1.0.0",
-  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.2/VODLoot-update-0.6.7.2.zip",
-  "sha256": "9e66077d13c73a31242663b1e970d9d012792a12b7dc1f6433643fa0a147b80f",
+  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.3/VODLoot-update-0.6.7.3.zip",
+  "sha256": "9f2fdef74915f9f829b95ad1f490df41a0dfbfeb6c994a75a5ec37df03f09b4f",
   "release_notes": [
-    "Release pipeline moved into the private VODLoot repository; the public update repo is distribution-only. In-app clip player now displays video instead of freezing on Loading preview. Dashboard shows a live count of clips moving through the pipeline. Auto Watch stops faster, reports progress while finishing, and adds Finish Now. Chunk boundaries no longer drop up to a second of footage. Clipping no longer opens console windows over the game."
+    "- Editor can render text over exported clips: frame-relative positioning, layer ordering, per-layer timing - Interface updates - scripts/set_version.py sets the version across all declarations from one command - Fixed three Windows-only test failures (BOM handling, path un-escaping, sqlite file locks)"
   ],
   "mandatory": false,
   "sync_environment": false,
-  "published_at": "2026-08-13T01:28:49.730693+00:00",
-  "signature": "JIu3qwgzTH+OytoF3P43edXOXk86pJ/ghVecWbNQPC8elZEMrYh0vSMXwZF4S4EqSUFjrEZvfLLjeXi29/uwAg=="
+  "published_at": "2026-08-13T03:08:09.888960+00:00",
+  "signature": "sTQ0JieQqigk0mJ0w4YLQMiRuF8zOq8FApDyWM6Zyf+MSNK2JEO+VtikCq2jY6s8iYmXeSlD1/Uq9XHKDiumCw=="
 }
