@@ -1,6 +1,4 @@
-*.pem
-*.key
-*signing-private*
-release-*/
-__pycache__/
-*.pyc
+# Local/editor files only. Production release artifacts are uploaded by the private VODLoot workflow.
+.DS_Store
+Thumbs.db
+*.tmp
