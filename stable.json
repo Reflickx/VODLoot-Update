@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.6.7.3",
+  "version": "0.6.7.4",
   "minimum_updater_version": "1.0.0",
-  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.3/VODLoot-update-0.6.7.3.zip",
-  "sha256": "9f2fdef74915f9f829b95ad1f490df41a0dfbfeb6c994a75a5ec37df03f09b4f",
+  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.4/VODLoot-update-0.6.7.4.zip",
+  "sha256": "364750be2a277bf9fc269064a57183f45e07f9cf3c0c834a27b6b453733bc92a",
   "release_notes": [
-    "- Editor can render text over exported clips: frame-relative positioning, layer ordering, per-layer timing - Interface updates - scripts/set_version.py sets the version across all declarations from one command - Fixed three Windows-only test failures (BOM handling, path un-escaping, sqlite file locks)"
+    "Integrate the creator-studio UI, hardware support, installer/updater changes, editor text layers, and regression fixes for the 0.6.7.3 release."
   ],
   "mandatory": false,
   "sync_environment": false,
-  "published_at": "2026-08-13T03:08:09.888960+00:00",
-  "signature": "sTQ0JieQqigk0mJ0w4YLQMiRuF8zOq8FApDyWM6Zyf+MSNK2JEO+VtikCq2jY6s8iYmXeSlD1/Uq9XHKDiumCw=="
+  "published_at": "2026-08-14T03:22:24.333540+00:00",
+  "signature": "g0HHDZGlBsDuZpzKvY6iswvJI/R/x7eq4zEoEobvJFO8ymzuKzrYxJ2kpBJlW7PNYLzm280i1N8sL17+p6ZXAg=="
 }
