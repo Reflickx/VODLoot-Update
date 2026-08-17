@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.6.7.4",
+  "version": "0.6.7.5",
   "minimum_updater_version": "1.0.0",
-  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.4/VODLoot-update-0.6.7.4.zip",
-  "sha256": "364750be2a277bf9fc269064a57183f45e07f9cf3c0c834a27b6b453733bc92a",
+  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.5/VODLoot-update-0.6.7.5.zip",
+  "sha256": "855e19e7f374eef32d0cc134cb6247d8507f83162164806b1cfbc211b91c67c3",
   "release_notes": [
-    "Integrate the creator-studio UI, hardware support, installer/updater changes, editor text layers, and regression fixes for the 0.6.7.3 release."
+    "Two-scout pipeline: gameplay signal, ranking, learning, sidecar captions"
   ],
   "mandatory": false,
   "sync_environment": false,
-  "published_at": "2026-08-14T03:22:24.333540+00:00",
-  "signature": "g0HHDZGlBsDuZpzKvY6iswvJI/R/x7eq4zEoEobvJFO8ymzuKzrYxJ2kpBJlW7PNYLzm280i1N8sL17+p6ZXAg=="
+  "published_at": "2026-08-17T19:00:51.271822+00:00",
+  "signature": "CcQ3R4gZxlbKzHLMsCOM8kAt7NOXQ+3bNo1G24tXAz3uezPrWBf87jzZjoAai6TwVR+KQK5a+rZwYgNf71lGDg=="
 }
