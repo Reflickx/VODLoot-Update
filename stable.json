@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.6.7.6",
+  "version": "0.6.7.7",
   "minimum_updater_version": "1.0.0",
-  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.6/VODLoot-update-0.6.7.6.zip",
-  "sha256": "a045a8b9b63a9a8bfbbd889ab14a37cf8bd27373806e1eda6464447b411253cc",
+  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.7/VODLoot-update-0.6.7.7.zip",
+  "sha256": "713982f00d01775b9e8432d47c492487c67751c2d7e64105ccb9f6ae8d2f29f6",
   "release_notes": [
-    "Migrate VODLoot UI to native C# WPF"
+    "installer hotfix"
   ],
   "mandatory": false,
   "sync_environment": false,
-  "published_at": "2026-08-19T19:39:07.520279+00:00",
-  "signature": "cRufUxSFod+Dl3E+YUjN8EDX0FbDshVBRTDorxXT6ir1NvhZic6QN+8nlnzQi6jB226kqyp26aVPBo8a1m3lAA=="
+  "published_at": "2026-08-19T19:52:20.848522+00:00",
+  "signature": "eEgPQ3mbeiRjEWT3VD2Oau5Mp/T5vLeZ0heJwjNUANv3ZUml8hUoUUldgOoIEDvjPOcWlPFwV6TWUl++l/I/Aw=="
 }
