@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.6.7.5",
+  "version": "0.6.7.6",
   "minimum_updater_version": "1.0.0",
-  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.5/VODLoot-update-0.6.7.5.zip",
-  "sha256": "855e19e7f374eef32d0cc134cb6247d8507f83162164806b1cfbc211b91c67c3",
+  "package_url": "https://github.com/Reflickx/VODLoot-Update/releases/download/v0.6.7.6/VODLoot-update-0.6.7.6.zip",
+  "sha256": "a045a8b9b63a9a8bfbbd889ab14a37cf8bd27373806e1eda6464447b411253cc",
   "release_notes": [
-    "Two-scout pipeline: gameplay signal, ranking, learning, sidecar captions"
+    "Migrate VODLoot UI to native C# WPF"
   ],
   "mandatory": false,
   "sync_environment": false,
-  "published_at": "2026-08-17T19:00:51.271822+00:00",
-  "signature": "CcQ3R4gZxlbKzHLMsCOM8kAt7NOXQ+3bNo1G24tXAz3uezPrWBf87jzZjoAai6TwVR+KQK5a+rZwYgNf71lGDg=="
+  "published_at": "2026-08-19T19:39:07.520279+00:00",
+  "signature": "cRufUxSFod+Dl3E+YUjN8EDX0FbDshVBRTDorxXT6ir1NvhZic6QN+8nlnzQi6jB226kqyp26aVPBo8a1m3lAA=="
 }
